@@ -53,3 +53,6 @@ console.log(replaceword);
 let startWord = "Egg";
 let startsWith = startWord.startsWith("g", 1);
 console.log(startsWith);
+
+//continuation later
+console.log("Hello");
