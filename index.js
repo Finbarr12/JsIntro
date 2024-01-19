@@ -56,3 +56,14 @@ console.log(startsWith);
 
 //continuation later
 console.log("Hello");
+
+//1st Method
+let word34 = "Okafor ";
+let word56 = "Clare";
+console.log("My name is" + " " + word34 + word56);
+
+//2nd method
+let name = "Ayomide";
+let age = "12";
+let food = "Bread";
+console.log(`${name} ${age} ${food}`);
