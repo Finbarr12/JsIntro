@@ -28,6 +28,7 @@ console.log("regexp", answer1);
 
 //Task 3
 
+//1st Method
 let anotherWord = "Money";
 let anotherlength = anotherWord.length;
 let dividedWord = Math.floor(anotherlength / 2);
