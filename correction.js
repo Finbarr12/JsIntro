@@ -28,6 +28,7 @@ function removeElements(arr, value) {
   return finalResult;
 }
 
+//Quetion 3
 console.log(removeElements([1, 2, 3, 4, 5, 2, 2, 3, 4], 2));
 
 let OddNumber = (Array) => {
